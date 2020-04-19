@@ -32,7 +32,7 @@ public class AutoEZ extends Module {
 	int hasBeenCombat;
 
 	public enum Mode {
-		GG("gg, $NAME"),
+		GG("gg, $NAME , but KAMI BLUE will not let me lose :).),
 		ONTOP("KAMI BLUE on top! ez $NAME"),
 		EZD("You just got ez'd $NAME"),
 		EZ_HYPIXEL("E Z Win $NAME"),
